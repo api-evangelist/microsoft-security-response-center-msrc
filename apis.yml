@@ -1,0 +1,32 @@
+aid: microsoft-security-response-center-msrc
+name: Microsoft Security Response Center (MSRC)
+description: "Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)"
+url: https://msrc.microsoft.com/report/developer
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Security"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Security
+  - Public APIs
+apis:
+  - name: Microsoft Security Response Center (MSRC)
+    description: "Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)"
+    humanURL: https://msrc.microsoft.com/report/developer
+    baseURL: https://msrc.microsoft.com/report/developer
+    tags:
+      - Security
+    properties:
+      - type: Documentation
+        url: https://msrc.microsoft.com/report/developer
+common:
+  - type: Website
+    url: https://msrc.microsoft.com/report/developer
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
