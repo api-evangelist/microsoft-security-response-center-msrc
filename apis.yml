@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://msrc.microsoft.com/report/developer
 common:
+  - type: VulnerabilityDisclosure
+    url: security/microsoft-security-response-center-msrc-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/microsoft-security-response-center-msrc-domain-security.yml
   - type: Website
     url: https://msrc.microsoft.com/report/developer
   - type: PublicAPIsListing
