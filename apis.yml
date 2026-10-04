@@ -40,7 +40,6 @@ apis:
   - name: Microsoft Security Response Center (MSRC)
     description: "Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)"
     humanURL: https://msrc.microsoft.com/report/developer
-    baseURL: https://msrc.microsoft.com/report/developer
     tags:
       - Security
     properties:
